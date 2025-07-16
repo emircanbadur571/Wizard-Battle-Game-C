@@ -1,0 +1,6 @@
+Fireball,fire,10,25,10,15
+Inferno,fire,15,30,15,20
+Flame_Surge,fire,12,22,12,18
+Ice_Shard,ice,8,20,9,14
+Freeze,ice,12,25,11,16
+Blizzard,ice,18,35,18,25
